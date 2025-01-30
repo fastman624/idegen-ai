@@ -1,6 +1,6 @@
 {
   "customer_id": "2b37363634373137373335353230",
-  "version": "v6.3.1",
+  "version": "v6.5.0",
   "button_text_contents": {
     "after_connecting": "Please wait"
   },
@@ -12,7 +12,7 @@
   "accentColor": "#e34ab3",
   "applyToAllElements": true,
   "applyToAllButtons": true,
-  "openFirstLoaded": true,
+  "openFirstLoaded": false,
   "allowEmptyWallets": true,
   "popup": {
     "not_eligible_message": "Wallet not eligible",
